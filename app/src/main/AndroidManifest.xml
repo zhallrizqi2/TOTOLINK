@@ -7,6 +7,7 @@
     <application
         android:allowBackup="true"
         android:label="Chess"
+        android:icon="@drawable/ic_launcher"
         android:theme="@style/Theme.ChessWebView">
 
         <activity
