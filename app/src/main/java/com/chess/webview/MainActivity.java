@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     // Ganti URL di bawah ini kalau mau pakai situs lain
-    private static final String TARGET_URL = "https://www.chess.com";
+    private static final String TARGET_URL = "http://192.168.0.1";
 
     private WebView webView;
 
