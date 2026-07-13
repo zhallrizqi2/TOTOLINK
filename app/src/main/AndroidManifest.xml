@@ -6,8 +6,9 @@
 
     <application
         android:allowBackup="true"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Chess"
+        android:label="TOTOLINK"
         android:theme="@style/Theme.ChessWebView">
 
         <activity
